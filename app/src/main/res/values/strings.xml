@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="none">TO DO</string>
+    <string name="input_address">please input a address</string>
 </resources>
