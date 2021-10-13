@@ -2,4 +2,11 @@
     <string name="app_name">Weather</string>
     <string name="none">TO DO</string>
     <string name="input_address">please input a address</string>
+    <string name="span">|</string>
+    <string name="forecast">天气预报</string>
+    <string name="life_index">生活指数</string>
+    <string name="cold">感冒</string>
+    <string name="dress">穿衣</string>
+    <string name="car_washing">洗车</string>
+    <string name="ultraviolet">实时紫外线</string>
 </resources>
